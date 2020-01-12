@@ -114,6 +114,6 @@ Original repo by Eionix: https://github.com/krishnan793/PlymouthTheme-Cat/commit
 
 [Video] https://www.youtube.com/watch?v=c6f478VBhtE
 
-[Blog] http://eionix.blogspot.in/2016/10/plymouth-theme-for-ubuntu.html
+[Blog] https://www.eionix.co.in/2016/10/30/plymouth-theme-for-ubuntu.html
 
-And if you want to check out my blog for more creative coding and unix customization stuff, check out https://www.jackalope.tech/blog
+And if you want to check out my blog for more creative coding and unix customization stuff, check out https://www.jackalope.tech/
